@@ -8,15 +8,16 @@ https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
 Share and Try it: -Pull to your github
 
-## This is my Shhh-Curse-replacer Chrome Extension. 
+This is my Shhh-Curse-replacer
+## Chrome Extension.
 
 
 
-# Installation
+### Installation
 Just load the index.html file into your browser and stop the profanity! 
 
 
-# Development
+### Development
 Want to contribute?
 
 Offer tips here: jecobwesterfield@gmail.com
